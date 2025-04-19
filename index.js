@@ -1,3 +1,4 @@
+require('./server');
 const client = require('./main');
 require('./bot');
 require('./shiva');
