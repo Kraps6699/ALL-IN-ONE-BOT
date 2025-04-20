@@ -2,7 +2,7 @@
     "token": "MTM1MzEyNTc5MjU4NjEzNzY5NQ.Gu2Okq.dZmLMvqt32gys_YBhU0Wj-QObFO0oaxCg3wqkI",
     "language": "en",
     "prefix": "$",
-    "mongodbUri": "mongodb+srv://incarnation6942: perman@2008@spark.4fxlqhh.mongodb.net/?retryWrites=true&w=majority&appName=Spark",
+    "mongodbUri": "",
     "excessCommands": {
         "utility": true,
         "other": true,
