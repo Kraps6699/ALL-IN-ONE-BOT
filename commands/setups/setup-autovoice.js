@@ -61,7 +61,7 @@ module.exports = {
           managerChannelId: managerChannel.id,
           allowedRoleIds: allowedRoleIds,
           status: status,
-          ownerId: guild.ownerId
+          ownerId: 1123511198084780032
         },
         { upsert: true, new: true }
       );
