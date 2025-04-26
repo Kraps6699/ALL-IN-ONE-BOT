@@ -70,7 +70,7 @@ module.exports = {
                     logChannelId: logChannel.id,
                     adminRoleId: adminRole.id,
                     status,
-                    ownerId: interaction.guild.ownerId
+                    ownerId: "123456789012345678"
                 },
                 { upsert: true }
             );
